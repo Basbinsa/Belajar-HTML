@@ -10,5 +10,17 @@
 <hr>
 <p>Nama Saya <u><b>Bintang Adistya Saputra</b></u><br>
 		Saya sedang berkuliah di <a href="https://www.usd.ac.id/"><i>Universitas Sanata Dharma</i></a></p>
+<h3>Matakuliah yang saya ambil semester ini adalah:</h3>
+<ol>
+	<li>Analisis dan Strategi Algoritma</li>
+	<li>Interaksi Manusia Dengan Komputer</li>
+	<li>Komputasi Paralel dan Terdistribusi</li>
+	<li>Manajemen Informasi</li>
+	<li>Pembelajaran Mesin</li>
+	<li>Pemrograman Berbasis Platform</li>
+	<li>Pendidikan Kewarganegaraan</li>
+	<li>Rekayasa Perangkat Lunak</li>
+	<li>Bioproses Pengolahan Kopi</li>
+</ol>
 </body>
 </html>
